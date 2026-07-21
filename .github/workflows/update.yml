@@ -1,4 +1,4 @@
-name: Update CCTV5 Real URL
+name: Update MIGU-CCTV Real URL
 
 on:
   schedule:
