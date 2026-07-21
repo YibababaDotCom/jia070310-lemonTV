@@ -3,7 +3,7 @@ name: Update MIGU-CCTV Real URL
 on:
   schedule:
     # 每小时执行一次
-    - cron: '33 * * * *'
+    - cron: '39 * * * *'
   workflow_dispatch: # 允许在 GitHub 界面手动触发测试
 
 jobs:
