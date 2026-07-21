@@ -1,7 +1,7 @@
 import requests
 
 M3U_URL = "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u"
-OUTPUT_FILE = "cctv5.m3u"
+OUTPUT_FILE = "migu.m3u"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -16,6 +16,26 @@ TARGET_CHANNELS = {
     "CCTV5体育": {
         "id": "CCTV5",
         "title": "CCTV-5 体育"
+    },
+    "CCTV1综合": {
+        "id": "CCTV1",
+        "title": "CCTV-1综合"
+    },
+    "CCTV2财经": {
+        "id": "CCTV2",
+        "title": "CCTV-2财经"
+    },
+    "CCTV3综艺": {
+        "id": "CCTV3",
+        "title": "CCTV-3综艺"
+    },
+    "CCTV4中文国际": {
+        "id": "CCTV4",
+        "title": "CCTV-4中文国际"
+    },
+    "CCTV6电影": {
+        "id": "CCTV6",
+        "title": "CCTV-6电影"
     }
 }
 
