@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+",CCTV-5+ 体育赛事
 http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=fd4ab9305e32f1d0c0479e8b1982e30e&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260722032020&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=39.103.182.111&SecurityKey=20260722032020&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0abd6ce1c617746ff78c7094f8973854&sv=10004&ct=android
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5",CCTV-5 体育
+http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=4e51b4440c552cbfa1ee2eda2a3c96fe&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260722032018&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=39.103.182.111&SecurityKey=20260722032018&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eb249dc5253899b320fae133e0e41c47&sv=10004&ct=android
