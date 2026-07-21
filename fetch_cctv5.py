@@ -1,7 +1,7 @@
 import requests
 
 M3U_URL = "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u"
-OUTPUT_FILE = "migu.m3u"
+OUTPUT_FILE = "cctv5.m3u"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
