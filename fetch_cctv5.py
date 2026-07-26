@@ -18,7 +18,7 @@ TARGET_CHANNELS = {
     "CCTV5": {
         "id": "CCTV5",
         "title": "CCTV-5 体育",
-        "keywords": ["CCTV5体育", "CCTV5", "CCTV-5"]
+        "keywords": ["CCTV5体育"]
     },
     "CCTV1": {
         "id": "CCTV1",
